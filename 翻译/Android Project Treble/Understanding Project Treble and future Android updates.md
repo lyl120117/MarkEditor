@@ -1,0 +1,2 @@
+# [Understanding Project Treble and future Android updates](https://www.androidauthority.com/project-treble-818225/)
+
