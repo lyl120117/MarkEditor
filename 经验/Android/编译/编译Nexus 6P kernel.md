@@ -29,4 +29,4 @@
     Makefile:796: *** multiple target patterns.  Stop.
     #### failed to build some targets  ####
 ```
-解决方案：完成上面的第四步，将aarch64-linux-android-4.9/bin路径添加到PATH中就行了
+解决方案：将aarch64-linux-android-4.9/bin路径添加到PATH中就行了
