@@ -1,5 +1,9 @@
 [Instructions of HQConfig]
 
+#About
+HQConfig is a device that can be configured in sync with each other without the need for other tools, including PC or WIFI. Supports simultaneous configuration of multiple devices.
+
+
 # Functions
 1. Export configuration and produce qr codes
 2. Scan the qr code to synchronize the configuration
